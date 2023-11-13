@@ -1,0 +1,401 @@
+Product,Pack,Product_Type,Promotion,Placement,Price_API,Proposition,Launch_Month,Launch_Year,Region,iTO_Target,iTO_Achievement,Success
+Shampoo-1,Standard,Shampoo,No,Local Store,1.14,Eco-friendly,August,2022,Dhaka,3,1,1
+Toilet Cleaner-2,Standard,Shampoo,No,Online,0.53,Eco-friendly,February,2018,Feni,3,0,0
+Toothpaste-3,Premium,Toothpaste,Yes,Supermarket,0.78,Eco-friendly,October,2019,Dhaka,4,1,1
+Toilet Cleaner-4,Premium,Toothpaste,Yes,Supermarket,0.72,Organic,November,2019,Feni,4,4,1
+Shampoo-5,Premium,Toilet Cleaner,Yes,Supermarket,1.24,Eco-friendly,January,2018,Comilla,4,0,0
+Toilet Cleaner-6,Premium,Shampoo,Yes,Online,1.18,Eco-friendly,May,2020,Rajshahi,3,1,0
+Shampoo-7,Premium,Toothpaste,Yes,Local Store,1.39,Organic,October,2022,Feni,2,2,1
+Toothpaste-8,Standard,Toilet Cleaner,Yes,Online,0.59,Eco-friendly,September,2022,Chittagong,3,5,1
+Toilet Cleaner-9,Standard,Toilet Cleaner,Yes,Supermarket,0.92,Organic,September,2019,Comilla,5,2,0
+Toilet Cleaner-10,Standard,Toilet Cleaner,No,Online,0.53,Eco-friendly,November,2019,Comilla,3,2,1
+Toothpaste-11,Standard,Toothpaste,No,Supermarket,0.72,Eco-friendly,March,2022,Feni,1,5,0
+Toothpaste-12,Premium,Toothpaste,Yes,Local Store,1.01,Organic,August,2021,Rajshahi,2,4,0
+Toothpaste-13,Premium,Shampoo,Yes,Local Store,0.53,Eco-friendly,August,2021,Comilla,1,4,0
+Toilet Cleaner-14,Premium,Toothpaste,Yes,Local Store,0.7,New Flavor,December,2022,Comilla,3,2,1
+Shampoo-15,Standard,Toothpaste,Yes,Local Store,1.15,Organic,July,2020,Dhaka,1,1,1
+Shampoo-16,Standard,Shampoo,Yes,Local Store,1.04,Organic,February,2018,Rajshahi,1,0,0
+Toilet Cleaner-17,Premium,Toothpaste,No,Supermarket,0.72,New Flavor,June,2020,Dhaka,5,5,1
+Shampoo-18,Standard,Shampoo,Yes,Local Store,1.09,Eco-friendly,March,2022,Dhaka,1,3,0
+Toilet Cleaner-19,Premium,Shampoo,No,Online,1.31,Eco-friendly,February,2019,Comilla,4,5,0
+Toilet Cleaner-20,Standard,Toilet Cleaner,No,Local Store,0.51,Eco-friendly,October,2021,Rajshahi,2,5,1
+Shampoo-21,Premium,Toothpaste,Yes,Local Store,1.31,Organic,February,2018,Comilla,3,1,0
+Toothpaste-22,Premium,Toothpaste,Yes,Local Store,1.2,Organic,November,2021,Comilla,3,2,1
+Toilet Cleaner-23,Premium,Toothpaste,Yes,Local Store,0.84,Organic,November,2018,Rajshahi,1,2,1
+Toilet Cleaner-24,Standard,Toilet Cleaner,No,Supermarket,0.66,Eco-friendly,February,2018,Dhaka,5,5,1
+Toilet Cleaner-25,Standard,Toilet Cleaner,No,Supermarket,1.46,Eco-friendly,September,2022,Rajshahi,2,0,0
+Shampoo-26,Standard,Shampoo,Yes,Online,0.84,New Flavor,December,2019,Rajshahi,3,2,1
+Toilet Cleaner-27,Standard,Toothpaste,Yes,Supermarket,0.59,New Flavor,January,2019,Dhaka,3,0,0
+Toothpaste-28,Premium,Toilet Cleaner,No,Online,0.6,New Flavor,August,2019,Chittagong,4,1,1
+Toothpaste-29,Premium,Shampoo,No,Online,1.35,Organic,September,2018,Feni,4,5,1
+Toilet Cleaner-30,Standard,Shampoo,Yes,Online,1.1,Organic,September,2019,Chittagong,3,4,1
+Toilet Cleaner-31,Premium,Toilet Cleaner,No,Local Store,1.31,Eco-friendly,April,2018,Chittagong,3,1,0
+Toothpaste-32,Premium,Toothpaste,Yes,Supermarket,1.23,Eco-friendly,May,2019,Feni,2,0,0
+Toilet Cleaner-33,Standard,Toilet Cleaner,No,Online,1.04,Organic,March,2022,Chittagong,1,0,0
+Toothpaste-34,Premium,Toothpaste,Yes,Online,1.47,Organic,October,2022,Rajshahi,4,4,1
+Shampoo-35,Standard,Toothpaste,No,Supermarket,0.88,Eco-friendly,August,2018,Chittagong,5,5,1
+Toilet Cleaner-36,Premium,Toilet Cleaner,Yes,Supermarket,1.05,Eco-friendly,November,2021,Rajshahi,2,5,0
+Toothpaste-37,Premium,Shampoo,Yes,Online,1.33,New Flavor,December,2019,Dhaka,3,5,0
+Shampoo-38,Standard,Toothpaste,Yes,Online,1.12,Organic,June,2019,Chittagong,3,2,1
+Shampoo-39,Standard,Shampoo,No,Online,1.36,New Flavor,December,2018,Chittagong,5,3,1
+Toothpaste-40,Standard,Shampoo,No,Local Store,1.08,New Flavor,November,2018,Feni,5,4,1
+Toothpaste-41,Premium,Toothpaste,No,Supermarket,1.2,Eco-friendly,December,2018,Chittagong,1,5,1
+Toothpaste-42,Premium,Shampoo,Yes,Online,0.55,Organic,August,2021,Feni,2,0,0
+Shampoo-43,Standard,Toilet Cleaner,Yes,Online,0.73,Eco-friendly,February,2018,Dhaka,4,0,0
+Toothpaste-44,Premium,Shampoo,No,Online,0.79,Eco-friendly,September,2019,Dhaka,4,3,0
+Toilet Cleaner-45,Premium,Toilet Cleaner,Yes,Local Store,0.58,Eco-friendly,December,2021,Feni,2,0,1
+Toilet Cleaner-46,Standard,Shampoo,Yes,Local Store,0.73,New Flavor,August,2022,Comilla,5,5,0
+Toothpaste-47,Premium,Toothpaste,No,Supermarket,0.6,New Flavor,February,2022,Rajshahi,5,5,0
+Toothpaste-48,Premium,Shampoo,Yes,Online,0.78,Organic,May,2022,Comilla,1,0,0
+Shampoo-49,Standard,Shampoo,No,Online,1.14,Organic,January,2022,Rajshahi,2,2,0
+Toilet Cleaner-50,Standard,Shampoo,Yes,Online,0.86,Organic,April,2019,Dhaka,5,1,0
+Shampoo-51,Premium,Toilet Cleaner,Yes,Online,0.87,Organic,November,2018,Feni,3,1,1
+Toilet Cleaner-52,Premium,Shampoo,Yes,Local Store,0.71,Organic,May,2020,Dhaka,5,2,0
+Toilet Cleaner-53,Premium,Toilet Cleaner,No,Local Store,0.77,Organic,February,2022,Comilla,2,4,1
+Toothpaste-54,Premium,Toothpaste,No,Online,1.44,Eco-friendly,December,2020,Feni,1,2,1
+Toilet Cleaner-55,Standard,Shampoo,Yes,Supermarket,1.15,Eco-friendly,November,2019,Rajshahi,1,0,1
+Toothpaste-56,Premium,Shampoo,Yes,Local Store,1.11,Eco-friendly,June,2020,Dhaka,2,1,1
+Toothpaste-57,Premium,Toilet Cleaner,No,Supermarket,0.67,Organic,January,2022,Chittagong,1,5,0
+Shampoo-58,Premium,Toothpaste,No,Local Store,1.23,Eco-friendly,October,2018,Comilla,5,4,1
+Toilet Cleaner-59,Premium,Toothpaste,No,Online,0.66,Eco-friendly,December,2020,Chittagong,3,5,1
+Toilet Cleaner-60,Standard,Toilet Cleaner,No,Supermarket,0.88,Eco-friendly,July,2018,Rajshahi,4,2,0
+Toilet Cleaner-61,Premium,Shampoo,No,Supermarket,1.49,New Flavor,August,2019,Feni,3,1,0
+Toilet Cleaner-62,Premium,Toothpaste,No,Local Store,1.14,Organic,October,2022,Chittagong,5,4,1
+Toothpaste-63,Premium,Toothpaste,Yes,Local Store,1.06,Organic,February,2022,Comilla,3,1,0
+Toilet Cleaner-64,Premium,Toilet Cleaner,Yes,Supermarket,1.18,Organic,July,2019,Dhaka,1,1,1
+Toothpaste-65,Standard,Shampoo,Yes,Supermarket,1.34,Organic,June,2021,Comilla,2,5,0
+Shampoo-66,Standard,Toilet Cleaner,No,Supermarket,1.28,Organic,November,2021,Feni,1,4,1
+Toilet Cleaner-67,Premium,Toothpaste,No,Supermarket,0.73,New Flavor,November,2022,Dhaka,3,0,1
+Toothpaste-68,Standard,Shampoo,Yes,Local Store,0.53,Organic,July,2021,Dhaka,4,1,0
+Toilet Cleaner-69,Premium,Shampoo,No,Supermarket,0.82,Organic,May,2022,Chittagong,5,0,0
+Shampoo-70,Standard,Toothpaste,No,Online,0.77,Organic,May,2021,Rajshahi,2,2,1
+Toothpaste-71,Premium,Shampoo,No,Supermarket,0.71,New Flavor,February,2021,Chittagong,4,0,0
+Toothpaste-72,Standard,Toothpaste,No,Local Store,1.44,Organic,October,2018,Dhaka,5,4,1
+Shampoo-73,Standard,Toothpaste,No,Online,1.38,Eco-friendly,September,2022,Comilla,1,5,1
+Toilet Cleaner-74,Standard,Toothpaste,No,Local Store,0.81,Organic,January,2021,Chittagong,4,3,0
+Shampoo-75,Standard,Toothpaste,No,Local Store,1.16,New Flavor,September,2021,Chittagong,3,0,0
+Toilet Cleaner-76,Premium,Toothpaste,Yes,Local Store,0.9,Eco-friendly,January,2020,Chittagong,5,5,0
+Toothpaste-77,Premium,Shampoo,Yes,Online,1.41,Eco-friendly,October,2018,Dhaka,4,3,1
+Toilet Cleaner-78,Premium,Toilet Cleaner,Yes,Online,0.96,Organic,February,2022,Comilla,3,5,0
+Toilet Cleaner-79,Standard,Toothpaste,No,Online,0.76,Eco-friendly,January,2020,Dhaka,4,4,0
+Toilet Cleaner-80,Premium,Toothpaste,No,Online,0.75,Organic,March,2021,Comilla,4,0,0
+Shampoo-81,Standard,Toilet Cleaner,No,Supermarket,1.06,Eco-friendly,July,2019,Dhaka,4,5,0
+Toothpaste-82,Premium,Shampoo,No,Online,0.76,Organic,February,2021,Chittagong,3,1,0
+Shampoo-83,Standard,Shampoo,Yes,Local Store,1.08,Organic,September,2020,Chittagong,3,4,1
+Toilet Cleaner-84,Standard,Toothpaste,No,Online,1.4,Organic,February,2019,Dhaka,4,4,0
+Toothpaste-85,Standard,Toilet Cleaner,No,Local Store,0.9,Organic,August,2022,Chittagong,2,5,1
+Shampoo-86,Standard,Toothpaste,Yes,Local Store,0.72,Organic,March,2020,Rajshahi,3,3,0
+Toothpaste-87,Premium,Toilet Cleaner,Yes,Supermarket,1.5,Eco-friendly,December,2018,Dhaka,3,4,1
+Toilet Cleaner-88,Standard,Toothpaste,No,Online,1.01,Eco-friendly,July,2019,Feni,1,5,1
+Toilet Cleaner-89,Premium,Shampoo,Yes,Supermarket,0.59,Eco-friendly,October,2020,Chittagong,4,2,0
+Shampoo-90,Standard,Toilet Cleaner,Yes,Online,0.55,New Flavor,May,2022,Chittagong,3,4,1
+Toilet Cleaner-91,Premium,Toilet Cleaner,No,Local Store,0.61,Organic,September,2020,Comilla,3,4,1
+Shampoo-92,Premium,Toothpaste,Yes,Online,1.13,Organic,October,2018,Dhaka,4,1,1
+Toothpaste-93,Standard,Toothpaste,Yes,Online,1.29,New Flavor,August,2018,Rajshahi,4,0,0
+Toilet Cleaner-94,Standard,Toilet Cleaner,Yes,Supermarket,0.92,Eco-friendly,March,2019,Dhaka,1,2,0
+Toilet Cleaner-95,Premium,Toothpaste,Yes,Online,0.56,Organic,June,2021,Feni,5,3,1
+Shampoo-96,Premium,Toilet Cleaner,Yes,Online,0.88,Organic,September,2018,Comilla,1,0,0
+Toothpaste-97,Standard,Shampoo,No,Local Store,1.5,New Flavor,August,2021,Chittagong,4,1,1
+Toilet Cleaner-98,Standard,Toothpaste,Yes,Online,1.03,Organic,May,2020,Chittagong,5,0,0
+Toilet Cleaner-99,Premium,Toothpaste,No,Supermarket,1.47,Organic,December,2022,Feni,5,4,1
+Shampoo-100,Standard,Toothpaste,Yes,Supermarket,1.36,Organic,October,2021,Comilla,2,5,1
+Toothpaste-101,Premium,Shampoo,No,Supermarket,0.51,Eco-friendly,June,2019,Feni,1,5,0
+Shampoo-102,Standard,Shampoo,Yes,Supermarket,1.22,New Flavor,February,2020,Feni,3,4,0
+Toothpaste-103,Premium,Toothpaste,No,Online,1.18,Eco-friendly,September,2021,Rajshahi,2,4,1
+Toilet Cleaner-104,Premium,Shampoo,No,Local Store,1.04,New Flavor,September,2022,Dhaka,3,0,0
+Toilet Cleaner-105,Premium,Toothpaste,No,Local Store,0.77,New Flavor,June,2021,Comilla,2,1,1
+Toothpaste-106,Premium,Toothpaste,No,Supermarket,1.14,New Flavor,September,2019,Chittagong,2,0,0
+Shampoo-107,Standard,Toilet Cleaner,Yes,Supermarket,0.61,Eco-friendly,December,2021,Comilla,4,4,1
+Toilet Cleaner-108,Standard,Shampoo,Yes,Supermarket,0.93,New Flavor,May,2021,Comilla,4,3,0
+Shampoo-109,Standard,Toothpaste,Yes,Online,0.95,New Flavor,April,2020,Chittagong,3,5,1
+Toothpaste-110,Standard,Shampoo,Yes,Supermarket,1.45,Organic,January,2018,Feni,5,4,0
+Shampoo-111,Premium,Toilet Cleaner,No,Supermarket,1.38,Eco-friendly,July,2018,Rajshahi,2,4,1
+Shampoo-112,Standard,Toilet Cleaner,No,Online,0.76,Eco-friendly,January,2020,Feni,2,4,0
+Toothpaste-113,Premium,Toothpaste,Yes,Supermarket,1.0,Eco-friendly,May,2019,Rajshahi,4,1,0
+Toothpaste-114,Premium,Toilet Cleaner,No,Online,0.68,New Flavor,August,2018,Dhaka,2,4,0
+Toilet Cleaner-115,Standard,Toothpaste,Yes,Supermarket,1.41,Eco-friendly,February,2019,Feni,5,2,0
+Toothpaste-116,Standard,Shampoo,No,Local Store,1.37,Eco-friendly,February,2019,Comilla,3,4,0
+Toilet Cleaner-117,Premium,Shampoo,Yes,Online,0.8,Eco-friendly,August,2019,Comilla,2,5,1
+Toilet Cleaner-118,Premium,Toilet Cleaner,Yes,Local Store,1.14,Organic,January,2022,Feni,3,1,0
+Toilet Cleaner-119,Standard,Toothpaste,Yes,Supermarket,1.11,New Flavor,November,2019,Feni,3,4,1
+Toilet Cleaner-120,Premium,Toothpaste,Yes,Online,0.65,Organic,May,2022,Chittagong,1,0,0
+Toothpaste-121,Premium,Shampoo,Yes,Online,1.26,Organic,March,2021,Dhaka,5,3,0
+Toothpaste-122,Standard,Toilet Cleaner,Yes,Local Store,1.04,Organic,April,2018,Dhaka,5,0,0
+Toothpaste-123,Premium,Toothpaste,Yes,Supermarket,1.28,Eco-friendly,April,2019,Feni,2,5,1
+Toothpaste-124,Standard,Toothpaste,No,Local Store,1.03,New Flavor,July,2020,Rajshahi,1,1,0
+Shampoo-125,Standard,Toothpaste,No,Local Store,0.5,Organic,June,2021,Feni,2,2,1
+Toothpaste-126,Premium,Shampoo,Yes,Local Store,0.82,Eco-friendly,November,2022,Comilla,3,4,1
+Shampoo-127,Premium,Toothpaste,Yes,Online,0.52,New Flavor,May,2019,Chittagong,1,3,1
+Toilet Cleaner-128,Premium,Toilet Cleaner,No,Supermarket,1.43,Organic,February,2019,Rajshahi,1,1,0
+Toilet Cleaner-129,Standard,Toothpaste,Yes,Local Store,1.38,Eco-friendly,January,2020,Dhaka,1,0,0
+Shampoo-130,Standard,Toilet Cleaner,Yes,Local Store,1.33,New Flavor,August,2020,Rajshahi,5,2,1
+Toilet Cleaner-131,Standard,Toilet Cleaner,No,Online,0.81,Eco-friendly,January,2022,Feni,5,4,0
+Shampoo-132,Standard,Toilet Cleaner,No,Supermarket,0.56,New Flavor,March,2019,Feni,4,2,0
+Toothpaste-133,Premium,Shampoo,No,Local Store,1.38,Eco-friendly,August,2021,Chittagong,4,3,1
+Shampoo-134,Standard,Toilet Cleaner,Yes,Local Store,1.45,New Flavor,August,2019,Rajshahi,4,0,1
+Toilet Cleaner-135,Standard,Toilet Cleaner,No,Supermarket,0.59,Organic,August,2021,Comilla,3,0,0
+Shampoo-136,Standard,Toothpaste,Yes,Local Store,0.99,Organic,January,2022,Dhaka,3,3,1
+Shampoo-137,Premium,Toothpaste,Yes,Supermarket,0.57,Eco-friendly,July,2019,Rajshahi,1,5,1
+Toilet Cleaner-138,Premium,Shampoo,No,Supermarket,1.26,Eco-friendly,June,2020,Dhaka,1,3,1
+Shampoo-139,Standard,Shampoo,No,Local Store,1.27,New Flavor,June,2018,Dhaka,3,1,0
+Toilet Cleaner-140,Premium,Toilet Cleaner,Yes,Local Store,0.63,Organic,December,2022,Comilla,4,0,1
+Shampoo-141,Premium,Toilet Cleaner,No,Online,0.98,Organic,May,2022,Rajshahi,1,4,1
+Toilet Cleaner-142,Standard,Toothpaste,No,Online,1.05,Organic,September,2021,Dhaka,3,3,1
+Toothpaste-143,Premium,Shampoo,Yes,Supermarket,0.77,New Flavor,May,2020,Chittagong,4,0,0
+Toothpaste-144,Premium,Toilet Cleaner,Yes,Supermarket,1.37,Eco-friendly,October,2020,Chittagong,2,4,1
+Toothpaste-145,Standard,Shampoo,Yes,Online,0.92,New Flavor,July,2021,Comilla,4,5,0
+Toothpaste-146,Premium,Shampoo,Yes,Supermarket,0.71,New Flavor,February,2019,Rajshahi,3,5,1
+Shampoo-147,Standard,Shampoo,Yes,Online,1.04,Organic,January,2021,Feni,1,1,0
+Toothpaste-148,Premium,Toothpaste,Yes,Local Store,1.23,Organic,March,2018,Dhaka,5,0,0
+Shampoo-149,Standard,Toothpaste,No,Online,0.7,Organic,April,2022,Feni,4,1,0
+Toilet Cleaner-150,Standard,Toilet Cleaner,No,Supermarket,0.81,Organic,July,2022,Rajshahi,2,0,0
+Toothpaste-151,Premium,Toothpaste,No,Online,1.5,New Flavor,December,2020,Dhaka,4,2,1
+Toilet Cleaner-152,Premium,Toilet Cleaner,No,Local Store,1.15,Eco-friendly,August,2020,Dhaka,5,3,1
+Shampoo-153,Premium,Toilet Cleaner,No,Supermarket,0.94,New Flavor,April,2022,Chittagong,5,2,0
+Toilet Cleaner-154,Premium,Shampoo,Yes,Local Store,1.02,Organic,October,2018,Rajshahi,1,4,0
+Shampoo-155,Premium,Toilet Cleaner,Yes,Local Store,0.62,Eco-friendly,June,2020,Rajshahi,3,0,1
+Shampoo-156,Premium,Shampoo,Yes,Online,0.72,Eco-friendly,February,2020,Rajshahi,5,2,0
+Toothpaste-157,Premium,Shampoo,Yes,Online,0.84,New Flavor,March,2022,Dhaka,5,2,0
+Toothpaste-158,Standard,Toilet Cleaner,Yes,Local Store,1.09,Organic,January,2020,Comilla,3,3,0
+Shampoo-159,Standard,Toothpaste,Yes,Supermarket,0.73,Organic,March,2018,Feni,2,5,0
+Toilet Cleaner-160,Premium,Toilet Cleaner,No,Local Store,0.72,New Flavor,July,2018,Rajshahi,4,2,1
+Toilet Cleaner-161,Standard,Toilet Cleaner,Yes,Online,0.57,Organic,June,2020,Comilla,4,3,1
+Shampoo-162,Premium,Toothpaste,No,Online,1.13,Organic,January,2021,Feni,3,2,0
+Shampoo-163,Standard,Shampoo,No,Online,0.73,Organic,April,2019,Rajshahi,1,2,1
+Shampoo-164,Standard,Toothpaste,No,Local Store,1.41,Eco-friendly,August,2022,Rajshahi,2,2,1
+Toothpaste-165,Premium,Toothpaste,No,Local Store,1.36,New Flavor,November,2018,Feni,3,1,1
+Toilet Cleaner-166,Premium,Shampoo,No,Online,0.57,Eco-friendly,September,2020,Chittagong,3,1,0
+Toothpaste-167,Standard,Shampoo,Yes,Local Store,0.74,Eco-friendly,November,2021,Comilla,4,2,1
+Toothpaste-168,Premium,Toothpaste,No,Supermarket,1.17,Organic,March,2018,Chittagong,2,1,0
+Toothpaste-169,Premium,Shampoo,Yes,Supermarket,0.71,Eco-friendly,January,2020,Dhaka,3,4,0
+Shampoo-170,Premium,Shampoo,Yes,Local Store,0.63,Organic,June,2022,Rajshahi,3,1,1
+Toothpaste-171,Standard,Shampoo,No,Online,1.44,Organic,August,2020,Chittagong,2,3,1
+Toilet Cleaner-172,Premium,Toothpaste,No,Supermarket,1.07,New Flavor,February,2021,Dhaka,4,2,0
+Shampoo-173,Standard,Toilet Cleaner,No,Online,0.97,New Flavor,May,2019,Chittagong,2,5,1
+Toilet Cleaner-174,Premium,Toothpaste,No,Supermarket,1.28,Eco-friendly,February,2020,Chittagong,3,0,0
+Toilet Cleaner-175,Standard,Toothpaste,No,Supermarket,1.31,Eco-friendly,May,2022,Rajshahi,3,0,0
+Toilet Cleaner-176,Premium,Shampoo,Yes,Supermarket,0.69,Eco-friendly,March,2022,Feni,5,1,0
+Toilet Cleaner-177,Premium,Toothpaste,Yes,Local Store,0.6,Eco-friendly,January,2021,Chittagong,3,4,0
+Toilet Cleaner-178,Standard,Toilet Cleaner,No,Online,0.93,Organic,July,2022,Feni,5,0,1
+Toothpaste-179,Standard,Toilet Cleaner,Yes,Online,0.92,Organic,May,2018,Dhaka,5,5,1
+Toothpaste-180,Premium,Toilet Cleaner,No,Supermarket,0.97,Organic,September,2019,Comilla,4,2,0
+Toothpaste-181,Standard,Toilet Cleaner,Yes,Online,1.23,Eco-friendly,December,2021,Feni,1,4,1
+Toothpaste-182,Standard,Shampoo,Yes,Local Store,1.17,Eco-friendly,March,2022,Feni,2,4,1
+Toilet Cleaner-183,Premium,Toilet Cleaner,No,Online,1.48,Organic,November,2019,Rajshahi,4,2,0
+Toothpaste-184,Standard,Shampoo,No,Supermarket,0.6,Eco-friendly,September,2022,Comilla,1,3,1
+Shampoo-185,Premium,Shampoo,Yes,Supermarket,0.9,New Flavor,December,2019,Comilla,2,4,0
+Shampoo-186,Premium,Toothpaste,Yes,Supermarket,0.84,New Flavor,August,2018,Comilla,5,1,1
+Toilet Cleaner-187,Premium,Toilet Cleaner,No,Local Store,1.36,Organic,December,2019,Comilla,4,5,1
+Toilet Cleaner-188,Premium,Toothpaste,Yes,Supermarket,0.75,Eco-friendly,February,2022,Rajshahi,5,0,0
+Toilet Cleaner-189,Standard,Shampoo,No,Online,0.69,Eco-friendly,April,2022,Chittagong,4,4,1
+Shampoo-190,Standard,Toilet Cleaner,Yes,Online,0.95,Eco-friendly,June,2022,Rajshahi,4,2,1
+Toilet Cleaner-191,Standard,Toothpaste,No,Online,0.92,Eco-friendly,January,2018,Chittagong,3,2,0
+Shampoo-192,Premium,Shampoo,Yes,Supermarket,0.78,Eco-friendly,April,2022,Dhaka,1,3,1
+Toothpaste-193,Premium,Toilet Cleaner,Yes,Supermarket,0.75,Eco-friendly,June,2020,Rajshahi,1,4,1
+Toothpaste-194,Premium,Toothpaste,Yes,Online,1.42,New Flavor,July,2020,Comilla,1,1,1
+Shampoo-195,Standard,Toilet Cleaner,No,Online,0.94,New Flavor,January,2018,Chittagong,5,5,0
+Shampoo-196,Premium,Shampoo,No,Local Store,1.36,New Flavor,December,2022,Dhaka,1,4,1
+Shampoo-197,Premium,Toilet Cleaner,No,Local Store,1.05,Organic,September,2020,Feni,1,4,1
+Toilet Cleaner-198,Standard,Shampoo,No,Online,0.55,New Flavor,December,2019,Feni,4,1,1
+Toothpaste-199,Premium,Toothpaste,Yes,Online,1.5,Organic,March,2022,Feni,4,0,0
+Toothpaste-200,Premium,Toothpaste,Yes,Local Store,1.34,New Flavor,November,2022,Comilla,4,3,1
+Shampoo-201,Premium,Toothpaste,No,Local Store,1.47,Organic,March,2018,Chittagong,4,0,0
+Shampoo-202,Standard,Toilet Cleaner,No,Supermarket,1.43,New Flavor,April,2021,Dhaka,2,5,1
+Toothpaste-203,Standard,Toilet Cleaner,No,Online,1.35,Eco-friendly,September,2019,Feni,3,1,0
+Toothpaste-204,Standard,Toothpaste,No,Supermarket,0.67,Organic,November,2018,Chittagong,1,1,1
+Shampoo-205,Standard,Toilet Cleaner,No,Online,0.99,New Flavor,August,2018,Comilla,1,0,1
+Toilet Cleaner-206,Standard,Toothpaste,Yes,Local Store,0.71,Eco-friendly,June,2020,Comilla,2,3,0
+Shampoo-207,Premium,Toothpaste,Yes,Online,0.9,Eco-friendly,June,2019,Comilla,2,2,1
+Shampoo-208,Standard,Shampoo,Yes,Local Store,0.56,Organic,April,2022,Comilla,3,3,1
+Shampoo-209,Premium,Toilet Cleaner,No,Online,0.88,Eco-friendly,January,2021,Comilla,2,0,0
+Toilet Cleaner-210,Premium,Shampoo,Yes,Local Store,1.49,Eco-friendly,May,2020,Chittagong,1,5,1
+Toilet Cleaner-211,Premium,Shampoo,Yes,Online,0.77,New Flavor,June,2020,Chittagong,2,0,1
+Shampoo-212,Premium,Toothpaste,Yes,Supermarket,1.28,New Flavor,June,2022,Feni,1,2,1
+Toothpaste-213,Standard,Toothpaste,No,Supermarket,0.96,Eco-friendly,April,2018,Comilla,2,3,1
+Toilet Cleaner-214,Standard,Toilet Cleaner,Yes,Local Store,0.92,Organic,July,2020,Rajshahi,5,1,1
+Toothpaste-215,Premium,Toilet Cleaner,No,Supermarket,1.46,Organic,April,2022,Rajshahi,5,1,0
+Toothpaste-216,Standard,Toilet Cleaner,No,Online,1.5,New Flavor,March,2022,Feni,4,2,0
+Shampoo-217,Standard,Toothpaste,Yes,Online,1.06,Organic,August,2018,Rajshahi,2,4,1
+Toilet Cleaner-218,Standard,Toothpaste,Yes,Supermarket,1.22,New Flavor,July,2021,Rajshahi,4,3,1
+Toilet Cleaner-219,Standard,Toothpaste,No,Local Store,0.65,New Flavor,August,2018,Dhaka,1,0,1
+Toothpaste-220,Premium,Shampoo,Yes,Online,0.8,Organic,March,2020,Comilla,3,5,0
+Shampoo-221,Premium,Toilet Cleaner,Yes,Supermarket,1.47,Eco-friendly,September,2019,Rajshahi,2,4,1
+Toothpaste-222,Standard,Toothpaste,Yes,Supermarket,1.08,Eco-friendly,July,2019,Dhaka,4,0,0
+Toilet Cleaner-223,Standard,Shampoo,Yes,Online,1.04,New Flavor,February,2022,Rajshahi,5,3,0
+Toothpaste-224,Premium,Toothpaste,Yes,Local Store,1.25,Eco-friendly,February,2020,Comilla,2,3,1
+Shampoo-225,Standard,Toothpaste,Yes,Online,0.56,New Flavor,October,2022,Dhaka,1,2,0
+Shampoo-226,Premium,Shampoo,No,Supermarket,1.08,Eco-friendly,June,2021,Comilla,4,4,1
+Toothpaste-227,Premium,Shampoo,Yes,Online,1.0,Eco-friendly,December,2018,Chittagong,3,4,1
+Shampoo-228,Premium,Toothpaste,Yes,Online,1.35,New Flavor,March,2018,Rajshahi,5,1,0
+Toilet Cleaner-229,Standard,Toilet Cleaner,Yes,Local Store,0.66,New Flavor,November,2018,Comilla,4,4,1
+Toothpaste-230,Standard,Toilet Cleaner,Yes,Local Store,1.46,New Flavor,June,2018,Comilla,3,1,0
+Toilet Cleaner-231,Premium,Toothpaste,Yes,Supermarket,0.58,Eco-friendly,July,2021,Comilla,4,0,1
+Shampoo-232,Premium,Toothpaste,Yes,Supermarket,0.69,Organic,August,2019,Rajshahi,2,1,1
+Toilet Cleaner-233,Premium,Toilet Cleaner,No,Local Store,1.1,New Flavor,April,2018,Chittagong,2,4,1
+Shampoo-234,Standard,Shampoo,No,Supermarket,1.18,Organic,July,2021,Feni,3,2,0
+Toilet Cleaner-235,Premium,Toothpaste,No,Online,0.74,New Flavor,December,2018,Chittagong,4,3,1
+Shampoo-236,Standard,Shampoo,No,Local Store,0.62,Organic,October,2021,Dhaka,3,0,0
+Toothpaste-237,Premium,Shampoo,No,Supermarket,1.39,Organic,November,2019,Chittagong,4,5,1
+Toilet Cleaner-238,Premium,Toilet Cleaner,Yes,Online,0.75,Eco-friendly,January,2022,Dhaka,1,0,0
+Toilet Cleaner-239,Premium,Shampoo,No,Supermarket,1.09,Organic,August,2019,Rajshahi,2,1,1
+Toilet Cleaner-240,Standard,Toothpaste,Yes,Local Store,1.12,Eco-friendly,June,2021,Comilla,1,5,1
+Toilet Cleaner-241,Premium,Shampoo,No,Online,0.92,Organic,January,2022,Feni,4,4,0
+Toilet Cleaner-242,Premium,Toothpaste,Yes,Local Store,1.08,New Flavor,June,2021,Rajshahi,5,0,0
+Toothpaste-243,Premium,Toilet Cleaner,No,Supermarket,1.02,New Flavor,February,2020,Chittagong,4,0,0
+Toilet Cleaner-244,Premium,Toilet Cleaner,Yes,Local Store,1.43,New Flavor,May,2019,Dhaka,1,4,1
+Toilet Cleaner-245,Premium,Shampoo,No,Online,0.7,Organic,August,2022,Rajshahi,1,5,1
+Shampoo-246,Premium,Toilet Cleaner,No,Supermarket,1.22,Eco-friendly,July,2019,Comilla,2,5,1
+Shampoo-247,Premium,Toothpaste,No,Local Store,0.74,Organic,July,2022,Rajshahi,1,1,0
+Toilet Cleaner-248,Premium,Shampoo,Yes,Local Store,0.9,Organic,April,2019,Dhaka,1,3,1
+Toilet Cleaner-249,Premium,Shampoo,Yes,Local Store,1.17,Eco-friendly,April,2020,Feni,5,1,0
+Toilet Cleaner-250,Premium,Shampoo,No,Local Store,0.8,Eco-friendly,April,2020,Feni,2,3,1
+Toilet Cleaner-251,Standard,Toilet Cleaner,Yes,Supermarket,0.82,New Flavor,April,2020,Feni,5,3,0
+Shampoo-252,Premium,Toilet Cleaner,Yes,Supermarket,1.25,Eco-friendly,September,2021,Comilla,4,0,0
+Toothpaste-253,Premium,Shampoo,No,Online,0.57,New Flavor,August,2021,Rajshahi,2,4,0
+Toilet Cleaner-254,Standard,Toothpaste,No,Local Store,0.96,New Flavor,February,2020,Rajshahi,5,2,0
+Shampoo-255,Premium,Toothpaste,Yes,Online,1.5,Eco-friendly,November,2020,Comilla,2,0,0
+Toothpaste-256,Standard,Toothpaste,Yes,Local Store,1.5,New Flavor,October,2018,Comilla,3,2,1
+Toothpaste-257,Premium,Shampoo,No,Local Store,0.57,Eco-friendly,January,2019,Rajshahi,4,1,0
+Toothpaste-258,Premium,Toilet Cleaner,No,Local Store,0.71,Eco-friendly,February,2021,Rajshahi,5,4,0
+Shampoo-259,Standard,Shampoo,No,Online,0.77,Organic,February,2021,Comilla,5,2,0
+Toilet Cleaner-260,Premium,Toothpaste,Yes,Supermarket,1.43,Eco-friendly,July,2018,Feni,5,2,0
+Toilet Cleaner-261,Premium,Shampoo,No,Supermarket,1.38,New Flavor,November,2019,Rajshahi,1,2,0
+Shampoo-262,Standard,Toothpaste,No,Supermarket,1.38,Organic,February,2018,Chittagong,3,4,1
+Shampoo-263,Standard,Toilet Cleaner,No,Online,0.87,Eco-friendly,June,2020,Comilla,5,2,1
+Toothpaste-264,Standard,Toothpaste,Yes,Supermarket,0.66,Eco-friendly,September,2019,Chittagong,3,1,0
+Toothpaste-265,Premium,Toilet Cleaner,Yes,Online,1.33,Eco-friendly,April,2021,Rajshahi,4,4,1
+Toilet Cleaner-266,Premium,Shampoo,No,Supermarket,1.2,Eco-friendly,January,2022,Chittagong,1,1,0
+Toothpaste-267,Standard,Toothpaste,Yes,Local Store,1.11,New Flavor,June,2022,Rajshahi,2,3,0
+Toothpaste-268,Standard,Toothpaste,Yes,Online,1.49,New Flavor,April,2019,Comilla,5,0,0
+Toilet Cleaner-269,Standard,Toilet Cleaner,Yes,Supermarket,1.15,New Flavor,August,2021,Comilla,5,4,1
+Toilet Cleaner-270,Standard,Toilet Cleaner,Yes,Online,0.51,Organic,July,2020,Comilla,3,1,0
+Toothpaste-271,Standard,Toothpaste,Yes,Online,1.32,New Flavor,August,2019,Rajshahi,3,1,1
+Toothpaste-272,Standard,Toilet Cleaner,Yes,Local Store,0.8,Eco-friendly,April,2021,Chittagong,2,0,0
+Toilet Cleaner-273,Premium,Toilet Cleaner,No,Local Store,1.16,Eco-friendly,May,2022,Dhaka,4,2,0
+Toothpaste-274,Standard,Toothpaste,No,Online,1.44,Organic,October,2021,Comilla,3,4,1
+Toothpaste-275,Standard,Shampoo,Yes,Online,0.63,Eco-friendly,July,2022,Comilla,2,4,1
+Toilet Cleaner-276,Premium,Toilet Cleaner,Yes,Local Store,0.62,Organic,August,2019,Comilla,4,2,0
+Toothpaste-277,Standard,Toilet Cleaner,No,Supermarket,0.61,Organic,July,2022,Feni,1,0,0
+Shampoo-278,Premium,Shampoo,No,Online,1.05,Eco-friendly,March,2021,Chittagong,2,5,1
+Shampoo-279,Premium,Toothpaste,No,Supermarket,0.77,Eco-friendly,July,2020,Rajshahi,5,4,1
+Shampoo-280,Standard,Toilet Cleaner,Yes,Online,1.1,Organic,December,2021,Comilla,4,2,1
+Toilet Cleaner-281,Premium,Toothpaste,Yes,Online,1.22,New Flavor,February,2019,Chittagong,5,3,0
+Toothpaste-282,Premium,Toilet Cleaner,Yes,Supermarket,0.7,New Flavor,November,2021,Dhaka,5,3,1
+Toilet Cleaner-283,Premium,Toothpaste,Yes,Supermarket,1.13,Organic,December,2019,Chittagong,5,3,1
+Shampoo-284,Standard,Toothpaste,Yes,Online,0.76,Eco-friendly,January,2018,Dhaka,4,2,0
+Toothpaste-285,Premium,Toothpaste,Yes,Supermarket,0.99,Organic,February,2019,Dhaka,5,0,0
+Toothpaste-286,Premium,Toothpaste,No,Supermarket,1.41,Organic,January,2022,Feni,2,2,0
+Shampoo-287,Premium,Toilet Cleaner,Yes,Online,1.35,New Flavor,February,2019,Comilla,3,4,0
+Toothpaste-288,Premium,Toilet Cleaner,Yes,Local Store,0.59,Organic,February,2021,Comilla,3,1,0
+Shampoo-289,Standard,Toothpaste,No,Online,0.92,New Flavor,October,2018,Chittagong,4,2,1
+Toilet Cleaner-290,Standard,Toilet Cleaner,Yes,Online,0.78,Eco-friendly,May,2022,Chittagong,1,1,1
+Shampoo-291,Premium,Toilet Cleaner,Yes,Supermarket,0.5,Eco-friendly,October,2022,Rajshahi,4,1,1
+Toilet Cleaner-292,Premium,Shampoo,Yes,Local Store,1.27,Organic,February,2018,Dhaka,2,2,0
+Shampoo-293,Premium,Toilet Cleaner,Yes,Supermarket,1.14,New Flavor,January,2020,Rajshahi,4,4,0
+Shampoo-294,Premium,Toilet Cleaner,Yes,Supermarket,0.76,Organic,April,2019,Chittagong,5,1,0
+Toothpaste-295,Standard,Toothpaste,No,Local Store,1.24,Organic,October,2019,Dhaka,4,3,0
+Shampoo-296,Premium,Toilet Cleaner,Yes,Local Store,1.05,Eco-friendly,March,2019,Dhaka,2,4,0
+Toilet Cleaner-297,Standard,Toilet Cleaner,Yes,Supermarket,0.93,New Flavor,January,2020,Rajshahi,2,2,1
+Shampoo-298,Premium,Shampoo,No,Online,0.51,Organic,May,2022,Rajshahi,3,0,0
+Shampoo-299,Premium,Shampoo,Yes,Supermarket,0.58,New Flavor,August,2019,Comilla,5,0,1
+Toothpaste-300,Premium,Toilet Cleaner,Yes,Supermarket,1.38,Organic,November,2022,Chittagong,3,4,1
+Toothpaste-301,Premium,Toilet Cleaner,Yes,Online,1.4,Organic,August,2022,Feni,5,2,1
+Shampoo-302,Standard,Toilet Cleaner,Yes,Online,1.05,Organic,April,2020,Chittagong,3,5,1
+Toothpaste-303,Premium,Shampoo,Yes,Local Store,1.33,Eco-friendly,April,2022,Dhaka,1,0,0
+Toothpaste-304,Premium,Toothpaste,Yes,Online,1.08,Organic,October,2020,Comilla,1,1,1
+Toothpaste-305,Standard,Toothpaste,Yes,Local Store,0.65,Organic,March,2020,Feni,1,3,0
+Toothpaste-306,Standard,Shampoo,Yes,Online,0.63,Eco-friendly,January,2022,Comilla,3,5,0
+Shampoo-307,Standard,Shampoo,Yes,Local Store,0.81,Eco-friendly,September,2022,Chittagong,4,1,0
+Toothpaste-308,Premium,Toilet Cleaner,Yes,Supermarket,1.4,Eco-friendly,November,2020,Chittagong,2,3,0
+Shampoo-309,Premium,Toilet Cleaner,No,Supermarket,1.3,New Flavor,February,2021,Comilla,1,3,1
+Shampoo-310,Standard,Shampoo,No,Supermarket,1.36,New Flavor,August,2019,Feni,4,2,1
+Toilet Cleaner-311,Premium,Shampoo,No,Supermarket,1.4,Eco-friendly,September,2021,Chittagong,4,3,0
+Toothpaste-312,Standard,Shampoo,Yes,Online,0.71,New Flavor,October,2021,Dhaka,2,0,1
+Shampoo-313,Standard,Toilet Cleaner,No,Supermarket,0.75,Eco-friendly,May,2018,Dhaka,2,5,1
+Toothpaste-314,Standard,Shampoo,No,Local Store,0.6,Organic,March,2020,Dhaka,1,3,0
+Shampoo-315,Standard,Toilet Cleaner,Yes,Supermarket,1.28,New Flavor,February,2022,Chittagong,1,5,0
+Shampoo-316,Standard,Toothpaste,Yes,Online,1.38,Organic,February,2018,Feni,5,0,0
+Shampoo-317,Premium,Shampoo,Yes,Local Store,0.91,New Flavor,April,2021,Chittagong,2,5,1
+Toilet Cleaner-318,Premium,Toilet Cleaner,No,Online,1.12,Eco-friendly,February,2018,Comilla,1,0,0
+Shampoo-319,Standard,Toothpaste,No,Online,0.65,Organic,February,2022,Dhaka,4,3,0
+Toothpaste-320,Standard,Shampoo,No,Online,1.43,Organic,October,2021,Feni,5,4,1
+Toilet Cleaner-321,Premium,Toilet Cleaner,Yes,Supermarket,1.36,Organic,September,2020,Rajshahi,3,4,1
+Toothpaste-322,Premium,Toothpaste,No,Local Store,1.48,Organic,October,2019,Dhaka,4,0,0
+Shampoo-323,Standard,Toothpaste,No,Supermarket,1.31,Eco-friendly,July,2018,Rajshahi,1,1,0
+Toilet Cleaner-324,Premium,Shampoo,Yes,Supermarket,1.38,Eco-friendly,January,2021,Dhaka,4,4,0
+Toilet Cleaner-325,Standard,Toilet Cleaner,No,Online,0.52,New Flavor,May,2020,Chittagong,3,5,1
+Toilet Cleaner-326,Premium,Toothpaste,Yes,Online,1.24,Eco-friendly,November,2022,Chittagong,2,0,0
+Shampoo-327,Premium,Shampoo,Yes,Supermarket,0.83,Organic,November,2019,Feni,3,1,1
+Shampoo-328,Standard,Toilet Cleaner,No,Online,1.43,Organic,September,2018,Chittagong,1,5,1
+Toothpaste-329,Premium,Toothpaste,Yes,Local Store,1.3,Organic,February,2022,Dhaka,4,3,0
+Toilet Cleaner-330,Premium,Toilet Cleaner,Yes,Online,1.36,Eco-friendly,September,2019,Feni,1,2,1
+Toothpaste-331,Premium,Toilet Cleaner,Yes,Supermarket,1.31,Organic,October,2020,Feni,2,3,0
+Toothpaste-332,Premium,Toilet Cleaner,No,Online,0.77,Eco-friendly,January,2020,Rajshahi,3,1,0
+Toilet Cleaner-333,Premium,Shampoo,No,Online,1.29,New Flavor,December,2018,Rajshahi,2,1,1
+Toilet Cleaner-334,Premium,Toothpaste,Yes,Supermarket,0.61,Organic,January,2019,Comilla,2,3,1
+Shampoo-335,Standard,Toilet Cleaner,No,Online,1.37,Organic,February,2020,Feni,2,1,0
+Toilet Cleaner-336,Premium,Toothpaste,Yes,Online,1.36,New Flavor,December,2022,Rajshahi,2,1,1
+Shampoo-337,Standard,Shampoo,Yes,Local Store,0.72,Eco-friendly,March,2022,Feni,3,0,0
+Shampoo-338,Premium,Toothpaste,Yes,Online,1.32,Organic,December,2018,Feni,5,5,1
+Shampoo-339,Premium,Shampoo,Yes,Supermarket,0.96,Organic,August,2022,Feni,1,4,1
+Toilet Cleaner-340,Standard,Toilet Cleaner,Yes,Supermarket,0.81,Eco-friendly,September,2021,Chittagong,1,5,1
+Toilet Cleaner-341,Premium,Toothpaste,No,Online,1.3,Eco-friendly,November,2018,Rajshahi,4,0,0
+Shampoo-342,Standard,Toilet Cleaner,No,Online,0.73,Organic,December,2022,Dhaka,4,5,1
+Toothpaste-343,Premium,Toothpaste,No,Online,0.52,Eco-friendly,January,2019,Dhaka,1,3,0
+Toothpaste-344,Standard,Toothpaste,No,Local Store,0.69,Eco-friendly,May,2018,Comilla,2,5,1
+Toothpaste-345,Premium,Toothpaste,No,Online,0.83,Eco-friendly,December,2022,Dhaka,3,3,1
+Toilet Cleaner-346,Standard,Toothpaste,Yes,Supermarket,1.36,Organic,September,2022,Comilla,1,5,1
+Toilet Cleaner-347,Premium,Toilet Cleaner,No,Online,1.47,Eco-friendly,July,2022,Comilla,4,5,1
+Toothpaste-348,Premium,Shampoo,No,Online,0.78,Organic,March,2022,Feni,1,3,1
+Shampoo-349,Standard,Toothpaste,Yes,Online,1.14,Eco-friendly,January,2018,Dhaka,5,1,0
+Shampoo-350,Premium,Toothpaste,No,Supermarket,0.9,New Flavor,November,2020,Feni,3,3,1
+Toilet Cleaner-351,Standard,Toothpaste,No,Supermarket,1.48,Organic,June,2019,Chittagong,5,3,1
+Toilet Cleaner-352,Premium,Toilet Cleaner,No,Supermarket,1.04,Eco-friendly,September,2018,Feni,4,0,0
+Shampoo-353,Standard,Shampoo,Yes,Local Store,1.44,Organic,November,2019,Feni,1,3,1
+Shampoo-354,Standard,Shampoo,Yes,Local Store,0.62,Eco-friendly,March,2021,Dhaka,4,1,0
+Toilet Cleaner-355,Premium,Shampoo,Yes,Local Store,1.47,Eco-friendly,June,2021,Dhaka,2,1,0
+Toilet Cleaner-356,Premium,Toothpaste,Yes,Local Store,0.68,New Flavor,June,2022,Feni,4,3,1
+Toilet Cleaner-357,Standard,Toilet Cleaner,No,Supermarket,1.46,Organic,January,2018,Dhaka,1,4,1
+Toilet Cleaner-358,Standard,Toothpaste,No,Local Store,0.77,Organic,August,2021,Rajshahi,4,1,1
+Toothpaste-359,Standard,Toilet Cleaner,No,Supermarket,0.61,Organic,August,2020,Chittagong,1,1,1
+Toilet Cleaner-360,Premium,Toilet Cleaner,No,Supermarket,0.93,New Flavor,January,2019,Chittagong,5,4,0
+Shampoo-361,Premium,Shampoo,Yes,Supermarket,1.23,Eco-friendly,August,2019,Chittagong,5,3,1
+Toothpaste-362,Premium,Toilet Cleaner,No,Online,0.81,Organic,November,2022,Comilla,2,3,1
+Toilet Cleaner-363,Standard,Toothpaste,Yes,Supermarket,1.11,New Flavor,December,2021,Dhaka,4,0,1
+Toothpaste-364,Premium,Toilet Cleaner,No,Supermarket,1.01,New Flavor,May,2021,Comilla,3,4,1
+Toothpaste-365,Standard,Toilet Cleaner,Yes,Local Store,0.89,Eco-friendly,December,2019,Dhaka,1,5,1
+Toilet Cleaner-366,Premium,Toilet Cleaner,No,Online,1.08,Organic,February,2020,Chittagong,1,5,1
+Shampoo-367,Premium,Toothpaste,Yes,Supermarket,0.75,Eco-friendly,August,2018,Chittagong,2,5,1
+Shampoo-368,Premium,Toothpaste,No,Online,1.21,Organic,June,2019,Rajshahi,4,2,0
+Toilet Cleaner-369,Premium,Toothpaste,No,Online,0.5,Eco-friendly,February,2021,Chittagong,5,1,0
+Toothpaste-370,Premium,Toothpaste,No,Local Store,1.43,Eco-friendly,January,2021,Dhaka,3,4,1
+Shampoo-371,Premium,Shampoo,No,Local Store,1.04,Organic,March,2021,Feni,5,1,0
+Shampoo-372,Standard,Shampoo,Yes,Online,1.22,Eco-friendly,June,2022,Feni,3,3,1
+Toothpaste-373,Premium,Shampoo,Yes,Supermarket,1.24,Organic,May,2019,Chittagong,1,0,0
+Toilet Cleaner-374,Standard,Toilet Cleaner,Yes,Supermarket,1.17,Organic,August,2018,Comilla,2,5,1
+Shampoo-375,Premium,Toothpaste,No,Supermarket,0.86,Eco-friendly,April,2022,Chittagong,4,5,1
+Toilet Cleaner-376,Standard,Toothpaste,No,Supermarket,0.57,Organic,March,2021,Chittagong,4,2,0
+Toilet Cleaner-377,Standard,Toilet Cleaner,No,Supermarket,1.16,Eco-friendly,May,2022,Dhaka,1,3,1
+Toilet Cleaner-378,Premium,Toilet Cleaner,No,Supermarket,0.83,Eco-friendly,March,2020,Comilla,2,5,1
+Shampoo-379,Premium,Shampoo,Yes,Online,0.81,Eco-friendly,September,2021,Comilla,1,4,1
+Shampoo-380,Premium,Shampoo,Yes,Supermarket,1.35,Organic,June,2018,Chittagong,3,1,1
+Toilet Cleaner-381,Premium,Toothpaste,Yes,Local Store,1.22,Organic,September,2022,Dhaka,2,1,0
+Toothpaste-382,Premium,Shampoo,No,Online,0.8,Eco-friendly,August,2018,Rajshahi,4,1,1
+Toilet Cleaner-383,Standard,Shampoo,No,Online,0.81,New Flavor,October,2021,Rajshahi,1,0,1
+Toothpaste-384,Premium,Toothpaste,Yes,Supermarket,0.91,Eco-friendly,September,2020,Feni,3,4,1
+Toilet Cleaner-385,Premium,Shampoo,Yes,Online,0.9,New Flavor,April,2022,Chittagong,4,5,1
+Toothpaste-386,Standard,Shampoo,No,Online,0.8,Organic,August,2021,Dhaka,2,4,1
+Toothpaste-387,Standard,Toothpaste,No,Local Store,0.63,Organic,October,2020,Feni,2,0,1
+Shampoo-388,Standard,Toothpaste,No,Supermarket,0.92,New Flavor,March,2022,Dhaka,5,3,0
+Shampoo-389,Standard,Toothpaste,No,Supermarket,1.44,Eco-friendly,November,2020,Rajshahi,4,5,1
+Toilet Cleaner-390,Standard,Toothpaste,Yes,Online,1.18,Eco-friendly,December,2020,Rajshahi,5,2,1
+Toothpaste-391,Standard,Toilet Cleaner,Yes,Supermarket,1.4,Organic,December,2022,Chittagong,5,3,1
+Shampoo-392,Standard,Toilet Cleaner,No,Online,1.12,Eco-friendly,February,2020,Comilla,3,5,1
+Shampoo-393,Premium,Toothpaste,No,Supermarket,0.8,New Flavor,January,2019,Rajshahi,5,0,0
+Toilet Cleaner-394,Standard,Toilet Cleaner,No,Local Store,1.05,Organic,June,2019,Rajshahi,3,3,1
+Toothpaste-395,Standard,Toothpaste,No,Local Store,0.5,Eco-friendly,June,2019,Feni,2,4,0
+Toilet Cleaner-396,Premium,Toilet Cleaner,Yes,Supermarket,0.79,Eco-friendly,October,2020,Feni,5,1,1
+Toothpaste-397,Standard,Toilet Cleaner,No,Supermarket,0.93,Eco-friendly,August,2018,Feni,4,3,1
+Shampoo-398,Standard,Toilet Cleaner,No,Online,1.08,Organic,September,2022,Comilla,3,5,1
+Toilet Cleaner-399,Premium,Toothpaste,Yes,Local Store,1.15,Organic,August,2022,Feni,1,0,1
+Toothpaste-400,Standard,Toilet Cleaner,No,Local Store,0.96,Organic,July,2019,Rajshahi,5,4,1
