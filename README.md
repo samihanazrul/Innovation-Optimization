@@ -1,8 +1,8 @@
 # Innovation-Optimization
-Utilizing machine learning on generated dummy data, this project explores insights into innovation success factors in the FMCG industry, aiding strategic decisions in the company's product development
+Utilizing machine learning on generated dummy data, this project explores insights into innovation success factors in the consumer packaged goods (CPG) industry, aiding strategic decisions in the company's product development
 
 Overview
-This project focuses on optimizing innovation and renovation success in the Fast-Moving Consumer Goods (FMCG) industry. Using dummy data generated with the Faker library, the goal is to explain and showcase the application of machine learning techniques in extracting insights and patterns. These insights aim to inform strategic decisions in product development.
+This project focuses on optimizing innovation and renovation success in the consumer packaged goods (CPG) industry. Using dummy data generated with the Faker library, the goal is to explain and showcase the application of machine learning techniques in extracting insights and patterns. These insights aim to inform strategic decisions in product development.
 
 Project Structure
 Data Generation: The DataGenerator.ipynb notebook contains the code for generating dummy data using the Faker library, creating a synthetic dataset for explanatory purposes.
